@@ -1,2 +1,2 @@
-# Desafios-python
- Meus exercícios de Python
+# Jokenpô-game
+ Joguinho de Pedra Papel e Tesoura (jokenpô)
